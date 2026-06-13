@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Baymaxawa's github stats](https://github-readme-stats-fast.vercel.app/api?username=Aruvelut-123&show_icons=true&theme=dark&border)
 <!--
 **Aruvelut-123/Aruvelut-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
